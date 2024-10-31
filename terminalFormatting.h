@@ -24,9 +24,11 @@ namespace terminalFormatingColorcodes
 
 namespace terminalFunctions
 {
-    #ifdef WINDOWS
+    #ifdef _WIN32
     #define CLEARSCREENCOMMAND "cls"
-    #else
+    #elif __linux__
+    #define CLEARSCREENCOMMAND "clear"
+    #elif __APPLE__
     #define CLEARSCREENCOMMAND "clear"
     #endif
     void clearScreen()
