@@ -1,4 +1,7 @@
-#include "BCPPTerminalFormating.h"
+#ifndef TERMINALUI_H
+#define TERMINALUI_H
+
+#include "terminalFormatting.h"
 #include <iostream>
 #include <string>
 #include <vector>
@@ -6,8 +9,7 @@
 #include <limits>
 #include <functional>
 
-#pragma once
-namespace BCPP_Package_TerminalUI
+namespace Package_TerminalUI
 {
     namespace formattedOutputs
     {
@@ -152,18 +154,4 @@ namespace BCPP_Package_TerminalUI
     }
 }
 
-namespace BCCP_Package_UIRATPACK
-{
-    namespace menuSystem
-    {
-        struct actionOptions
-        {
-            char option;
-            std::string optinDescription;
-            std::function<void()> action;
-        };
-        void menuSystem()
-        {
-        }
-    }
-}
+#endif // TERMINALUI_H
