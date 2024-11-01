@@ -9,8 +9,16 @@
 #include <limits>
 #include <functional>
 
+/**
+ * @file terminalUI.h
+ * @brief This file provides a set of utilities for terminal UI formatting and user interaction.
+ */
 namespace Package_TerminalUI
 {
+    /**
+     * @namespace formattedOutputs
+     * @brief Contains functions for formatted output display in the terminal.
+     */
     namespace formattedOutputs
     {
         /**
@@ -157,6 +165,11 @@ namespace Package_TerminalUI
             *alternator = !*alternator;
         }
     }
+
+    /**
+     * @namespace formattedPrompts
+     * @brief Contains functions for formatted user input prompts in the terminal.
+     */
     namespace formattedPrompts
     {
         /**
@@ -237,3 +250,4 @@ namespace Package_TerminalUI
 }
 
 #endif // TERMINALUI_H
+
