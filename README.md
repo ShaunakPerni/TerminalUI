@@ -27,6 +27,12 @@ The `formattedPrompts` namespace contains functions for formatted user input pro
 * `customPrompt`: Prompt the user for input with a given symbol and color.
 * `customPromptFormDualInputs`: Prompt the user for two inputs with messages and colors.
 
+## io
+
+The `io` namespace contains functions to print file contents on ther terminal. These function(s) include:
+
+* `printFile`: Prints a given file line by line
+
 ## Terminal Formatting
 
 The `terminalFormatting` namespace contains constants and functions for terminal output formatting. These include:

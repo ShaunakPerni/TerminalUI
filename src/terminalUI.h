@@ -247,6 +247,30 @@ namespace Package_TerminalUI
         }
 
     }
+
+    /**
+     * @namespace formattedPrompts
+     * @brief Contains functions for printing file contents.
+     */
+    namespace io
+    {
+        /**
+         * @brief Print a file Line by Line
+         * @param file Path to the File
+         */
+        void printFile(const std::string& filePath) {
+            std::ifstream file(filePath);
+            if (file.is_open()) {
+                std::string line;
+                while (std::getline(file, line)) {
+                    std::cout << line << std::endl;
+                }
+                file.close();
+            } else {
+                std::cout << "Unable to open file: " << filePath << std::endl;
+            }
+        }
+    }
 }
 
 #endif // TERMINALUI_H
