@@ -6,7 +6,7 @@
 #ifndef TERMINALFORMATING_H
 #define TERMINALFORMATING_H
 #include <string>
-#include <iostream>>
+#include <iostream>
 #pragma once
 namespace terminalFormatingColorcodes
 {
