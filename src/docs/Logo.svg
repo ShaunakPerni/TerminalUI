@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="400"
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.96375"
+     inkscape:cx="216.86122"
+     inkscape:cy="247.47082"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter47"
+       x="-0.0043498351"
+       y="-0.0043498351"
+       width="1.026824"
+       height="1.026824">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.470588"
+         flood-color="rgb(0,0,0)"
+         id="feFlood46" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="0.500000"
+         id="feGaussianBlur46" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="5.000000"
+         dy="5.000000"
+         id="feOffset46" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="offset"
+         in2="flood"
+         id="feComposite46" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite47" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Logo"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:13.7;stroke-linecap:square;stroke-opacity:1"
+       id="rect18"
+       width="400"
+       height="400"
+       x="0"
+       y="0"
+       inkscape:label="BG" />
+    <text
+       xml:space="preserve"
+       style="font-size:73.2899px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10.4591;stroke-linecap:square;stroke-opacity:1"
+       x="200.73291"
+       y="382.26807"
+       id="text1"
+       inkscape:label="LogoText"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="200.73291"
+         y="382.26807"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:STIX;-inkscape-font-specification:STIX;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10.4591;stroke-opacity:1">TerminalUI</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.7;stroke-linecap:square;stroke-opacity:1;filter:url(#filter47)"
+       id="rect1"
+       width="275.87253"
+       height="275.87253"
+       x="63.098503"
+       y="35.21777"
+       inkscape:label="Screen" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:13.7;stroke-linecap:square;stroke-opacity:1"
+       id="rect5"
+       width="275.87253"
+       height="14.67407"
+       x="63.098503"
+       y="130.59923"
+       inkscape:label="Row1" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:9.68736;stroke-linecap:square;stroke-opacity:1"
+       id="rect5-0"
+       width="137.93626"
+       height="14.67407"
+       x="63.098507"
+       y="35.21777"
+       inkscape:label="Title Bar" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:13.7;stroke-linecap:square;stroke-opacity:1"
+       id="rect6"
+       width="275.87253"
+       height="13.940367"
+       x="63.098503"
+       y="145.2733"
+       inkscape:label="Row2" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:13.7;stroke-linecap:square;stroke-opacity:1"
+       id="rect7"
+       width="275.87253"
+       height="14.67407"
+       x="63.098503"
+       y="157.74626"
+       inkscape:label="Row3" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:13.7;stroke-linecap:square;stroke-opacity:1"
+       id="rect8"
+       width="275.87253"
+       height="13.940367"
+       x="63.098503"
+       y="172.42033"
+       inkscape:label="Row4" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:13.7;stroke-linecap:square;stroke-opacity:1"
+       id="rect9"
+       width="275.87253"
+       height="14.67407"
+       x="63.098503"
+       y="186.3607"
+       inkscape:label="Row5" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:13.7;stroke-linecap:square;stroke-opacity:1"
+       id="rect10"
+       width="275.87253"
+       height="13.940367"
+       x="63.098503"
+       y="201.03477"
+       inkscape:label="Row6" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.7;stroke-linecap:square;stroke-opacity:1"
+       id="rect19"
+       width="275.87253"
+       height="13.940367"
+       x="63.098503"
+       y="214.97514"
+       inkscape:label="Spacer1" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.7;stroke-linecap:square;stroke-opacity:1"
+       id="rect20"
+       width="275.87253"
+       height="14.67407"
+       x="63.098507"
+       y="49.166195"
+       inkscape:label="Spacer2" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:4.49629;stroke-linecap:square;stroke-opacity:1"
+       id="rect21"
+       width="29.714993"
+       height="14.67407"
+       x="63.098507"
+       y="63.840263"
+       inkscape:label="Text1" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:5.31069;stroke-linecap:square;stroke-opacity:1"
+       id="rect22"
+       width="41.45425"
+       height="14.67407"
+       x="105.46988"
+       y="63.11462"
+       inkscape:label="Text2" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:5.31069;stroke-linecap:square;stroke-opacity:1"
+       id="rect23"
+       width="41.45425"
+       height="14.67407"
+       x="153.89432"
+       y="63.11462"
+       inkscape:label="Text3" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.7;stroke-linecap:square;stroke-opacity:1"
+       id="rect24"
+       width="275.87253"
+       height="14.67407"
+       x="63.098507"
+       y="78.514328"
+       inkscape:label="Spacer" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:5.36911;stroke-linecap:square;stroke-opacity:1"
+       id="rect47"
+       width="42.371376"
+       height="14.67407"
+       x="63.098503"
+       y="115.92516"
+       inkscape:label="OptionG" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:5.36911;stroke-linecap:square;stroke-opacity:1"
+       id="rect48"
+       width="42.371376"
+       height="14.67407"
+       x="105.01131"
+       y="115.92516"
+       inkscape:label="OptionY" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:5.36911;stroke-linecap:square;stroke-opacity:1"
+       id="rect49"
+       width="42.371376"
+       height="14.67407"
+       x="146.9241"
+       y="115.92516"
+       inkscape:label="OptionR" />
+  </g>
+</svg>

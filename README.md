@@ -1,5 +1,7 @@
 # Terminal UI
 
+![Logo](./src/docs/Logo.svg)
+
 A C++ Library to Quickly create menu systems for Terminals
 
 ## Overview
