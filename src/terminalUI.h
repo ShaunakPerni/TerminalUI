@@ -29,7 +29,7 @@ namespace Package_TerminalUI
         void generateTitleBar(std::string text, std::string color)
         {
             terminalFunctions::clearScreen();
-            std::cout << color << text << "\n a" << terminalFormatingColorcodes::ANSI_RESET;
+            std::cout << color << text << "\n" << terminalFormatingColorcodes::ANSI_RESET;
         }
 
         /**
