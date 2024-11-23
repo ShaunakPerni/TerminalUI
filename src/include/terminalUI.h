@@ -8,6 +8,7 @@
 #include <utility>
 #include <limits>
 #include <functional>
+#include <fstream>
 
 /**
  * @file terminalUI.h
